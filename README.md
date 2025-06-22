@@ -1,4 +1,4 @@
-# 🎯 Arch - Productivity App
+# 🎯 Arch - Productivity App (En desarrollo)
 
 <div align="center">
   <img src="public/images/a90f4370-8522-4e30-afb6-84c1dbeba61f.png" alt="Logo" width="200">
