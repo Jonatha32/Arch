@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arch/static/css/main.25f2f6e4.css",
+    "main.js": "/Arch/static/js/main.7a741dcb.js",
+    "index.html": "/Arch/index.html",
+    "main.25f2f6e4.css.map": "/Arch/static/css/main.25f2f6e4.css.map",
+    "main.7a741dcb.js.map": "/Arch/static/js/main.7a741dcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f2f6e4.css",
+    "static/js/main.7a741dcb.js"
+  ]
+}
