@@ -1,7 +1,7 @@
 # 🎯 Productivity App
 
 <div align="center">
-  <img src="public/images/a90f4370-8522-4e30-afb6-84c1dbeba61f.png" alt="Logo" width="150" height="150">
+  <img src="public/images/a90f4370-8522-4e30-afb6-84c1dbeba61f.png" alt="Logo" width="200">
   
   **Tu rutina. Tu mente. Tu orden.**
   
@@ -83,23 +83,8 @@ La aplicación utiliza Firebase para el backend. Asegúrate de configurar:
 4. **Calendario**: Planifica y visualiza tu agenda
 5. **Metas**: Define objetivos y rastrea tu progreso
 
-## 🤝 Contribución
+---
 
-Las contribuciones son bienvenidas. Para cambios importantes:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
-
-## 📞 Contacto
-
-- **Proyecto**: Productivity App
 - **Desarrollado con**: ❤️ y mucho ☕
 
 ---
